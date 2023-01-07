@@ -1,63 +1,6 @@
 {
-  "USD": {
-    "satis": "18.7087",
-    "alis": "18.7044",
-    "degisim": "0.00",
-    "d_oran": "0.0000",
-    "d_yon": "minus"
-  },
-  "EUR": {
-    "satis": "20.0091",
-    "alis": "19.8178",
-    "degisim": "0.00",
-    "d_oran": "0.0000",
-    "d_yon": "minus"
-  },
-  "GBP": {
-    "satis": "22.7344",
-    "alis": "22.5102",
-    "degisim": "0.00",
-    "d_oran": "0.0000",
-    "d_yon": "minus"
-  },
-  "GA": {
-    "satis": "1122.8690",
-    "alis": "1122.7790",
-    "degisim": "0.00",
-    "d_oran": "0.0000",
-    "d_yon": "minus"
-  },
-  "C": {
-    "satis": "1848.2607",
-    "alis": "1818.7512",
-    "degisim": "0.00",
-    "d_oran": "0.0000",
-    "d_yon": "minus"
-  },
-  "GAG": {
-    "satis": "14.3498",
-    "alis": "14.3317",
-    "degisim": "0.00",
-    "d_oran": "0.0000",
-    "d_yon": "minus"
-  },
-  "BTC": {
-    "satis": "16930.4425",
-    "alis": "16930.4425",
-    "degisim": "0.12",
-    "d_oran": "20.3165",
-    "d_yon": "caret-up"
-  },
-  "ETH": {
-    "satis": "1264.9578",
-    "alis": "1264.9578",
-    "degisim": "-0.15",
-    "d_oran": "-1.8974",
-    "d_yon": "caret-down"
-  },
-  "XU100": {
-    "satis": "5341.96",
-    "alis": "5341.96",
-    "degisim": "-0.13"
+  "api": {
+    "status": "Aktif",
+    "version": "2.0"
   }
 }
